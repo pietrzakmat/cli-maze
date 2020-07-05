@@ -10,9 +10,9 @@ it provides support for Linux by implementing terminal controls over ncurses lib
 # Install
 1. Install ncurses lib.
 2. CMake configuration:
- 2.1 mkdir build && cd build/
- 2.2 cmake..
- 2.3 make
+* 2.1 mkdir build && cd build/
+* 2.2 cmake..
+* 2.3 make
 
 # Running
 1. Set the terminal to xterm.
