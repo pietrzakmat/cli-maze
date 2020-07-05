@@ -17,11 +17,6 @@
 #include <thread>
 #include <memory>
 
-#define GRASS  	  ' '
-#define EMPTY     '.'
-#define WATER	  '~'
-#define MOUNTAIN  '^'
-#define PLAYER	  '*'
 
 int _kbhit() {
     static const int STDIN = 0;
