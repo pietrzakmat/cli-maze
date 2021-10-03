@@ -9,7 +9,8 @@ it provides support for Linux by implementing terminal controls over ncurses lib
 
 # Install
 1. Install ncurses lib.
-2. CMake configuration:
+   * sudo apt-get install libncurses5-dev libncursesw5-dev
+3. CMake configuration:
 * mkdir build && cd build/
 * cmake ..
 * make
